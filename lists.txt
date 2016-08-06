@@ -1,0 +1,217 @@
+[Adblock Plus 2.0]
+! Version: 201608061030
+! Title: JW8013's List
+! Homepage:  https://coding.net/u/jw8013/p/My-adp/git/tree/master
+
+baidu.com##.jump-task-list
+baidu.com##.gb-pr-lk
+baidu.com###baidu_bear
+bilibili.com##.bpoints-sb.to-bangumi
+baidu.com###exp-msgbox-wrapper
+com###backTop
+hdwo.net##.subsidiary.row.box
+hdwan.net##.bdselect_share_box
+hdwan.net##.sr-bdimgshare.sr-bdimgshare-list.sr-bdimgshare-16.sr-bdimgshare-black
+pcbeta.com###weixinqr
+weibo.com##.W_fold > A[href="javascript:void(0);"]
+myapp.com###download-btn
+com##.tip.tip_4.aimg_tip
+cn##.tip.tip_4.aimg_tip
+bbs.cl-acg.com###fwin_bobo_window_is_show > .fwin > TBODY
+pcbeta.com###zantip
+bbs.cl-acg.com##[wmode="transparent"]
+wenku.baidu.com##[href="http://wenku.baidu.com/topic/xueersen.html"]
+weibo.com##.W_layer_tips.W_layer_tips_top *
+365ossp.com##.keifu_box
+yun.ms###floatTips
+wenku.baidu.com##.vip-discount-dialog-inner
+wenku.baidu.com##.log-xsend > IMG
+manhua.dmzj.com##.float_code > *
+manhua.dmzj.com###fixbdshare
+ifeng.com###wx
+ifeng.com###zjkh
+list.tmall.com##.mui-mbar-arr.mui-mbarp-bubble-live-arr + * + *
+blog.sina.com.cn##.godreply > *
+blog.sina.com.cn###selectionShare + *
+bj.house.sina.com.cn##.real-time-window > *
+ferline8.com###footer + * + * + * + * + *
+shichang360.com###wx
+storage.yesky.com##.bdselect_share_box
+youku.com###lotteryToolbarBig > *
+moe-acg.cc##.banner.banner-post *
+moe-acg.cc###comment-ad *
+moe-acg.cc##.banner.banner-site *
+weibo.com##.WB_ad_tm2015
+com###bdshare > IMG
+widget.weibo.com##.tsina_open > *
+cn.club.vmall.com##.portal_block_summary > *
+drivers.160.com##[share-type="selectshare"]
+youku.com###sideTool
+blog.163.com###topbar_lofterDldArea > *
+net##.bdselect_share_box
+fqtz.me##AUDIO[src="https://dn-lolistatic.qbox.me/bg.mp3"]
+dayanzai.me##.share
+njupco.com###gs > *
+viw.mobi###xydlleft > *
+163.com##.m-regGuideLayer.f-trans.js-show-regGuideLayer > *
+youtube.com###watch7-sidebar-ads
+youtube.com##.ad-container.ad-container-single-media-element-annotations.ad-overlay *
+right.com.cn###frameK4Hex4 > *
+com##.shareto
+com##.bdsharebuttonbox.bdshare-button-style0-24
+ata.net.cn##.KeFu_box > *
+net##.baishare > *
+net##.sr-bdimgshare.sr-bdimgshare-list.sr-bdimgshare-16.sr-bdimgshare-black
+htai.me##[href="http://shop125869866.taobao.com/"] > *
+htai.me##[href^="http://item.taobao.com/item.htm?"] > *
+club.vmall.com##IMG[src="http://cn.club.vmall.com/uc_server/data/avatar/007/17/79/43_avatar_small.jpg"]
+tv##.rightshow > *
+###bdshare
+fc2.com###fc2_bottom_bnr_img > *
+fc2.com###fc2_bottom_bnr
+com##[style="position:fixed;right:0px;bottom:10px;width:130px;overflow:hidden;text-align:center;line-height:22px;font-size:16px;height:230px;"] > *
+tumblr.com##.version_follow_nag
+2ji3jieropicture.blog.fc2.com###center > IFRAME
+hrtsea.com###focusslide
+twitter.com###empty-timeline-recommendations.component.wtf-module.has-content > *
+yesky.com##[id^="bdimgshare"] > *
+baidu.com###baidu_bear *
+vmall.com###diy7
+pcbeta.com###ckepop
+com##.bdselect_share_box
+com##.bdimgshare-bg
+com##.bdimgshare-content.bdsharebuttonbox.bdshare-button-style0-16
+com###selectsearch-icon > *
+xiami.com###qcode
+appcheers.com##.sr-bdimgshare.sr-bdimgshare-list.sr-bdimgshare-32.sr-bdimgshare-black > *
+tmall.com##.mui-mbar-tab-bubble-bd > *
+tumblr.com###teaser_iframe_container
+163.com###blog-163-com-toptips
+163.com##.pl.fl.clearfix
+la###sky-center
+la##.ads
+la###sky-right
+la##IFRAME
+youku.com###miniSidebar
+youku.com###ykSidebar_w970
+youku.com##.yk-sidebar-w970.yk-sidebar-position
+51cto.com###f_close_box
+51cto.com###message
+l4d2.cc##.pd_tab
+etao.com##.img
+etao.com###J_sendNewUser
+baidu.com##.mod.lastcell-dialog
+youku.com###qheader_msg_panel
+qq.com###ad_app_priv
+ithome.com##.a_pb
+ali213.net##.glqcode
+ali213.net##.zt_center_con_body_left_gametj_con
+hiapk.com##.bm.lk
+com.cn###rightSideAd
+ccb.com.cn###leftSideAd
+baidu.com###m2c6c3218
+sina.com.cn##.real-time-window
+baidu.com##.mod.tiger-novActivity-dialog
+csdn.net###com-appcode-float-block
+baidu.com###userbar-msg
+baidu.com##.shop-entrance
+yingjiesheng.com##IMG[style="border: 1px solid #ccc;"]
+3464.com###main > *
+baidu.com###tipWrapper
+bbs.ydss.cn##.pg_viewthread > A
+baike.com###newsfix-on
+eastday.com###frmCounter
+baidu.com##.bd_bear_home_show
+baidu.com##.s_bri
+baidu.com###s_mancard_newmusic
+baidu.com##.feed-back.s-feedback
+hunantv.com##.i-floatbtn.clearfix
+zdfans.com##B
+##.bdimgshare-bg
+##.bdimgshare-bg + *
+##.bdsharebuttonbox.bdshare-button-style0-16
+##.float-layer
+baidu.com###share-ad-bottom
+china.com.cn##.R_Cont01
+china.com.cn##.daoliu
+china.com.cn##.box
+china.com.cn##.tabBox
+chengruide.com##.R_Cont01
+china.com.cn###index_center2
+china.com.cn##.ad_new1
+baidu.com##.tbui_aside_fbar_button.tbui_fbar_lab
+baidu.com##.tbui_aside_fbar_button.tbui_fbar_favor > A
+fzfu.com###ad
+51cto.com##.edu_insert
+baidu.com##.lbfc33384f.clearfix
+lyrcw.com###bottomNav
+kafan.cn##.wp.a_f
+360kb.com##TD[style="width:258px;"]
+com##.ds-share-aside-toggle
+52pojie.cn##.wp.a_f
+mengwubaike.com##.a_pt
+##.img_ad
+###google_ads_frame1
+##.a_cn
+###ads
+##.row.ads
+tianya.cn##.atl-con-ft.clearfix
+livehost.fr##[href="javascript:closepub_lh3d66f();"]
+steamcn.com##DIV[align="center"]
+h5galgame.cc##[onkeydown="if(event.keyCode==27) return false;"] > A
+fjrclh.com###AdLayer1
+acg-moe.com##.zcsj
+2xu.cc###hu_fyld
+cc###hu_fyrd
+cc##.ad-pc.ad-site
+2xu.cc###slideshow
+52miji.com###shortcut
+douyu.com##.vcode9-sign
+weibo.com##.PCD_nodelayer
+com###wx
+cnlist.com###pop
+kongzhong.com##IMG[src="images/e-wows.png"]
+fj.offcn.com##.main.bg
+offcn.com###jisou_ad
+panda.tv###ad_id
+paperfree.cn###action_tips_column
+paperfree.cn##IMG[src="https://www.paperfree.cn/report/images/cnki_.gif"]
+taobao.com##[data-name="pai-ceiling-ad"]
+##.bdshare-slide-button
+youku.com###player_sidebar
+com###at4-share
+google.cn###gt-bbar-c
+wang##[href="#newQuestion"]
+google.com###gt-promo-lr
+google.com###gt-bbar-c
+douyu.com###js-live-room-recommend
+douyu.com###js-yw-rmd-rooms
+qiuquan.cc##.sidebar-roll.follow
+acg-moe.com###character_effect_wrap
+jw8013.livehost.fr##CENTER
+rainmeter.cn###wechat_float_qrcode
+fuliba.net###ad_left
+fuliba.net###ad_right
+panda.tv##.index-slider-container
+douyu.com##.channel
+youtube.com###header
+live.bilibili.com##.index-tv-ctnr.m-auto
+com###ds-notify
+youku.com###qnotice
+youku.com###questionnaire
+weibo.com###center_notice
+weibo.com##.W_layer_tips
+offcn.com###gb
+soundrain.net###ds-notify
+galacg.me###ds-notify
+right.com.cn##A[style="width: 92px; height: 22px; background: rgb(255, 0, 0) url(\"http://open.t.qq.com/apps/qshare/images/icon.gif\") no-repeat scroll 0% 0%; position: absolute; display: none; left: 231px; top: 7023px; z-index: 999999;"]
+wenming.cn##.wechat
+wenming.cn##.hr365-pc
+|http://aapig.cc/bbs/upload/1000/*
+||music.163.com/api/song/*$domain=~163.com
+||note.youdao.com/yws/api/*
+||mengwubaike.com/source/plugin/wz_sound/sound/*
+http://cdn.acg-moe.com/music/sy/*
+||googleads.g.doubleclick.net^
+/advertising?
+wenming.cn##.DL
